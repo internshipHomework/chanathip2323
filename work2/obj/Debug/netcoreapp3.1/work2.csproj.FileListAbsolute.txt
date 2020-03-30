@@ -1,0 +1,13 @@
+D:\demo\work2\bin\Debug\netcoreapp3.1\work2.exe
+D:\demo\work2\bin\Debug\netcoreapp3.1\work2.deps.json
+D:\demo\work2\bin\Debug\netcoreapp3.1\work2.runtimeconfig.json
+D:\demo\work2\bin\Debug\netcoreapp3.1\work2.runtimeconfig.dev.json
+D:\demo\work2\bin\Debug\netcoreapp3.1\work2.dll
+D:\demo\work2\bin\Debug\netcoreapp3.1\work2.pdb
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.csprojAssemblyReference.cache
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.csproj.CoreCompileInputs.cache
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.AssemblyInfoInputs.cache
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.AssemblyInfo.cs
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.dll
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.pdb
+D:\demo\work2\obj\Debug\netcoreapp3.1\work2.genruntimeconfig.cache

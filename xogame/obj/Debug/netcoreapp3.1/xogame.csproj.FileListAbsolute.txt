@@ -1,0 +1,13 @@
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.csprojAssemblyReference.cache
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.csproj.CoreCompileInputs.cache
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.AssemblyInfoInputs.cache
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.AssemblyInfo.cs
+D:\demo\xogame\bin\Debug\netcoreapp3.1\xogame.exe
+D:\demo\xogame\bin\Debug\netcoreapp3.1\xogame.deps.json
+D:\demo\xogame\bin\Debug\netcoreapp3.1\xogame.runtimeconfig.json
+D:\demo\xogame\bin\Debug\netcoreapp3.1\xogame.runtimeconfig.dev.json
+D:\demo\xogame\bin\Debug\netcoreapp3.1\xogame.dll
+D:\demo\xogame\bin\Debug\netcoreapp3.1\xogame.pdb
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.dll
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.pdb
+D:\demo\xogame\obj\Debug\netcoreapp3.1\xogame.genruntimeconfig.cache
